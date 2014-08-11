@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PCL78", "tests\TestApps\PCL78\PCL78.fsproj", "{1B8AA528-B4A2-4CF0-8BEB-0F37DA3C8025}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConsoleApp_PCL78", "tests\TestApps\ConsoleApp_PCL78\ConsoleApp_PCL78.fsproj", "{1F142A37-0877-47A6-9446-C540399F7147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8AA528-B4A2-4CF0-8BEB-0F37DA3C8025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8AA528-B4A2-4CF0-8BEB-0F37DA3C8025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8AA528-B4A2-4CF0-8BEB-0F37DA3C8025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8AA528-B4A2-4CF0-8BEB-0F37DA3C8025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F142A37-0877-47A6-9446-C540399F7147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F142A37-0877-47A6-9446-C540399F7147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F142A37-0877-47A6-9446-C540399F7147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F142A37-0877-47A6-9446-C540399F7147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
